@@ -42,7 +42,10 @@ Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-
+## Train Model
+```
+python -m app.train_model
+```
 ## Run App
 ```
 python -m streamlit run app/main.py
